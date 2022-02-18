@@ -587,6 +587,7 @@ html {
   width: 160px;
   color: var(--white-color);
   text-transform: uppercase;
+  text-align: center;
 }
 
 .destination__content-highligh-content-countdown {
