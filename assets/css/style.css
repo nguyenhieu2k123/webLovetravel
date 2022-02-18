@@ -11,7 +11,7 @@ html {
 /* =======Start header */
 
 #header {
-  background-image: url("../bgr/parallax-2.jpeg");
+  background-image: url("../img/parallax-2.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-origin: border-box;
@@ -464,7 +464,7 @@ html {
 }
 
 .destination__banner-content {
-  background-image: url("../bgr/parallax-search-2.jpeg");
+  background-image: url("../img/parallax-search-2.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -518,7 +518,7 @@ html {
 }
 
 .destination__content-highlight-content-desc-img {
-  background-image: url("../bgr/parallax-4-1.jpeg");
+  background-image: url("../img/parallax-4-1.jpeg");
   background-position: center;
   background-size: cover;
   padding: 27%;
@@ -864,7 +864,7 @@ html {
 /* footer */
 
 #footer {
-  background-image: url("../bgr/parallax-7.jpeg");
+  background-image: url("../img/parallax-7.jpeg");
   background-size: cover;
   background-position: center;
   padding-bottom: 10%;
